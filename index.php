@@ -13,7 +13,7 @@ include_once('header.php')
                     <h1 class="display-3">LA CREATIVIDAD FLUYE POR NUESTRAS VENAS</h1>
                     <p class="lead mb-0">Rod Breton Media!</p>
                     <br>
-                    <a href="services.php" class="btn btn-outline-light rounded-pill btn-lg my-2 my-sm-0"> Servicios </a>
+                    <a href="about.php" class="btn btn-outline-light rounded-pill btn-lg my-2 my-sm-0"> Sobre Mi </a>
                 </div>
             </div>
         </div>
